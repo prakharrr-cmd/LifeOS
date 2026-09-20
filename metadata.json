@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS",
+  "description": "Predictive AI context engine that cross-analyzes notifications, calendar, emails, and assignments to predict what you are going to miss, featuring the one-click 'Why am I stressed?' schedule deconfliction engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
